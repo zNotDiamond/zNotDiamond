@@ -34,8 +34,10 @@ def group_at(transform):
 
 # left graph to remove
 g = group_at("translate(40, 520)")
-if g is not None:
-    remove(g)
+if g is None:
+    print([x.get("transform") for x in root.iter(q("g")) if x.get("transform")][-8:])
+    sys.exit("languages group not found")
+remove(g)
 
 # stars counters to remove
 g = group_at("translate(608, 802), scale(2)")
