@@ -19,6 +19,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.READ_ALL_REPOS }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github-profile-3d-contrib.json
+      - name: Patch SVG
+        run: python3 .github/scripts/patch_svg.py profile-3d-contrib/customized.svg  # update with my version of 3d contrib graph.. Hopefully
       - name: Commit & Push
         run: |
           git config user.name github-actions
