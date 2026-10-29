@@ -1,19 +1,38 @@
-[
-  {
-    "type": "normal",
-    "fileName": "contributions.svg",
-    "backgroundColor": "#ffffff",
-    "foregroundColor": "#000000",
-    "strongColor": "#000000",
-    "weakColor": "#808080",
-    "radarColor": "#47a042",
-    "growingAnimation": true,
-    "contribColors": [
-      "#ebedf0",
-      "#d6e685",
-      "#8cc665",
-      "#44a340",
-      "#1e6823"
-    ]
-  }
-]
+{
+  "type": "season",
+  "fileName": "profile-custom-season.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#00000f",
+  "strongColor": "#111133",
+  "weakColor": "gray",
+  "radarColor": "#47a042",
+  "growingAnimation": true,
+  "contribColors1": [
+    "#efefef",
+    "#ffe7ff",
+    "#edaeda",
+    "#e492ca",
+    "#ba7aad"
+  ],
+  "contribColors2": [
+    "#efefef",
+    "#d8e887",
+    "#8cc569",
+    "#47a042",
+    "#1d6a23"
+  ],
+  "contribColors3": [
+    "#efefef",
+    "#ffed4a",
+    "#ffc402",
+    "#fe9400",
+    "#fa6100"
+  ],
+  "contribColors4": [
+    "#efefef",
+    "#999999",
+    "#cccccc",
+    "#dddddd",
+    "#eeeeee"
+  ]
+}
