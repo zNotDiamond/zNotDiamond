@@ -2,4 +2,4 @@
 
 I love cybersecurity as a whole. I am deeply interested in embedded systems and IT engineering as well. 
 
-![](./profile-3d-contrib/customized.svg
+![](./profile-3d-contrib/customized.svg)
