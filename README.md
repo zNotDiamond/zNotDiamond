@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![](./profile-3d-contrib/profile-custom-season.svg)
+![](./profile-3d-contrib/contributions.svg)
