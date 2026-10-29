@@ -1,19 +1,32 @@
-[
-  {
+{
+  "type": "normal",
+  "fileName": "customized.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#00000f",
+  "strongColor": "#111133",
+  "weakColor": "gray",
+  "radarColor": "#47a042",
+  "growingAnimation": true,
+  "contribColors": [
+    "#efefef",
+    "#d8e887",
+    "#8cc569",
+    "#47a042",
+    "#1d6a23"
+  ],
+  "darkMode": {
     "type": "normal",
-    "fileName": "contributions.svg",
-    "backgroundColor": "#ffffff",
-    "foregroundColor": "#000000",
-    "strongColor": "#000000",
-    "weakColor": "#808080",
+    "backgroundColor": "#00000f",
+    "foregroundColor": "#eeeeff",
+    "strongColor": "rgb(255,200,55)",
+    "weakColor": "#aaaaaa",
     "radarColor": "#47a042",
-    "growingAnimation": true,
     "contribColors": [
-      "#ebedf0",
-      "#d6e685",
-      "#8cc665",
-      "#44a340",
-      "#1e6823"
+      "#444444",
+      "#1B7D28",
+      "#24A736",
+      "#2DD143",
+      "#57DA69"
     ]
   }
-]
+}
