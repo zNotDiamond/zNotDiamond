@@ -2,7 +2,7 @@
 
 I love cybersecurity as a whole. I am deeply interested in embedded systems and IT engineering as well. 
 
-![](https://komarev.com/ghpvc/?zNotDiamond=zNotDiamond&color=blue)
+![](https://komarev.com/ghpvc/?username=zNotDiamond&color=blue)
 
 <p align="center">
   <a href="https://tryhackme.com/p/zNotDiamond" target="_blank">
