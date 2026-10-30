@@ -9,7 +9,7 @@
                                                                                          
 ```
 
-<h2>Hi there <img src=".github/assets/wave.gif" width="20" height="20" alt="wave"/> I'm zNotDiamond, Apprentice IT Analyst & DevOps</h2>
+<h2>Hi there <img src=".github/assets/wave.gif" width="40" height="40" align="absmiddle" alt="wave"/> I'm zNotDiamond, Apprentice IT Analyst & DevOps</h2>
 
 I love cybersecurity as a whole. I am deeply interested in embedded systems and IT engineering as well. 
 
