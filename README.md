@@ -1,10 +1,14 @@
-## Hi there 👋 - I'm zNotDiamond, Apprentice IT Analyst & DevOps 
+## Hi there 👋 I'm zNotDiamond, Apprentice IT Analyst & DevOps 
 
 I love cybersecurity as a whole. I am deeply interested in embedded systems and IT engineering as well. 
 
 <p align="center">
   <a href="https://tryhackme.com/p/zNotDiamond" target="_blank">
       <img alt="TryHackMe Top 3%" src="https://img.shields.io/badge/TryHackMe_-_%20Global_Top_3%25-red?style=flat&logo=tryhackme&logoColor=black&labelColor=%23b10404&color=%23d64c4c&link=https%3A%2F%2Ftryhackme.com%2Fp%2FzNotDiamond" />
+  </a>
+  <p align="center">
+  <a href="https://www.root-me.org/zNotDiamond-1123460?lang=en" target="_blank">
+    <img alt="Root me 30%" src="![Static Badge](https://img.shields.io/badge/Root--Me_-_Global_Top_30%25-red?style=flat&logo=root-me&logoColor=black&labelColor=333333&color=FF5733&link=https%3A%2F%2Ftryhackme.com%2Fp%2FzNotDiamond)" />
   </a>
 </p>
 
